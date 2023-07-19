@@ -1,0 +1,17 @@
+[
+    {
+        "name":"nag",
+        "age":23,
+        "martialStatus": true        
+    },
+    {
+        "name":"nag2",
+        "age":24,
+        "martialStatus": false    
+    },
+    {    
+        "name":"nag3",
+        "age":25,
+        "martialStatus": true 
+    }
+]
